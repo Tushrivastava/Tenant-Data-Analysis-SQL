@@ -1,4 +1,4 @@
-**Tenant Data Analysis**
+**Tenant Data Analysis by SQL**
 **Single database, separate schema
 Database per tenant
 Multiple databases, multiple tenants per database, shared schema**
